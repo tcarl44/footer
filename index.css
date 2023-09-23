@@ -1,0 +1,114 @@
+/* style="font-size: 2444444px;" */
+body{
+    background-color: white;
+}
+
+main{
+    border-radius: 5%;
+    border: 70px solid;
+    background-color: rgb(49, 49, 49);
+    /* background-image: url(/images/Screenshot\ from\ 2023-09-16\ 11-25-34.png); */
+    object-position: center;
+    color: white;
+}
+
+main:hover{
+    background-image: url(/images/Screenshot\ from\ 2023-09-23\ 11-52-39.png);
+    object-position: center;
+    transform: scale(1.1);
+}
+
+.vertical-hr{
+    height: 7vh;
+    margin: 12px;
+}
+
+p{
+    text-align: center;
+    font-size: 12px;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+.in-line{
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    margin-right: 100%;
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 60px;
+}
+
+.click{
+    height: 50px;
+    width: 120px;
+    /* border-radius: 20%; */
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: rgb(49, 49, 49);;
+    color: white;
+}
+
+.email, .setting{
+    color: white;
+}
+
+.clock{
+    display: flex;
+    flex-direction: row;
+}
+
+.email{
+    margin-top: 23px;
+}
+
+.size{
+    font-size: 80px;
+}
+
+.image{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40vh;
+    margin-top: 20px;
+}
+
+.image-1{
+    margin: 5px;
+    width: 60px;
+    height: 10vh;
+    border-radius: 180%;
+} 
+
+
+.image-2{
+    margin: 5px;
+    width: 60px;
+    height: 10vh;
+    border-radius: 180%;
+} 
+
+.image-3{
+    margin: 5px;
+    width: 60px;
+    height: 10vh;
+    border-radius: 180%;
+}
+
+/* #option{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+} */
